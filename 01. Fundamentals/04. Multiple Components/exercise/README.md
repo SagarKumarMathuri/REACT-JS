@@ -1,5 +1,28 @@
 ### Exercise: Rendering Multiple Components and Nesting Components
+Multiple Components means using more than one component together to build a complete application or UI.
 
+🔹 Simple Definition
+
+ In frameworks like React (used in the MERN stack), instead of writing everything in one file, you break your UI into small reusable pieces called components—and then combine them.
+
+🔹 Real-Life Example
+
+Think of a website page like a car 🚗:
+
+Engine → One component
+Wheels → Another component
+Seats → Another component
+
+When you combine all parts → you get a complete car.
+
+Similarly:
+
+Navbar → Component
+Footer → Component
+Sidebar → Component
+Main Content → Component
+
+All together = Full application
 In this exercise, you will learn how to create multiple components and render one component inside another.
 
 #### Step 1: Create a `Header` Component
