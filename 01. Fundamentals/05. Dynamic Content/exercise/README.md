@@ -2,6 +2,21 @@
 
 In this exercise, you'll learn how to inject dynamic data into JSX using curly braces `{}`.
 
+Dynamic Content means content that changes automatically based on data, user actions, or conditions, instead of staying fixed.
+
+🔹 Simple Definition
+
+Dynamic content is not hardcoded. It updates when:
+
+user interacts (click, input, login)
+data changes (API, database)
+conditions change (time, user role, etc.)
+
+🔹 Static vs Dynamic Content
+* Type	Meaning
+* Static Content	Always same (e.g., fixed text like “Welcome”)
+* Dynamic Content	Changes (e.g., “Welcome, Sagar”)
+
 #### Step 1: Create a `Greeting` Component
 
 1. Create a new file called `Greeting.jsx`.
