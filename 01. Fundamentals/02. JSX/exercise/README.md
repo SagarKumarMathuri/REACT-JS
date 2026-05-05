@@ -1,6 +1,31 @@
 ### JSX Exercise
 
-In this exercise, you will practice writing basic JSX code and rendering it in a React app.
+JSX stands for JavaScript XML. It’s a syntax used in React that lets you write HTML-like code inside JavaScript.
+
+🔹 Simple Definition
+
+JSX allows you to describe UI structure (like HTML) directly within JavaScript code.
+
+👉 Instead of writing complex JavaScript to create elements, JSX makes it simple and readable.
+
+🔹 How JSX Works
+
+JSX is not understood directly by browsers.
+It is converted into JavaScript using tools like Babel.
+
+🔹 Rules of JSX
+Only one parent element must wrap everything
+Use className instead of class
+Write JavaScript inside {}
+
+🔹 Why Use JSX?
+✔️ Easy to read and write
+✔️ Looks like HTML
+✔️ Helps build UI faster
+✔️ Reduces complex code
+🔹 Key Idea
+
+👉 JSX = HTML + JavaScript together
 
 #### Step 1: Create a New Component
 
