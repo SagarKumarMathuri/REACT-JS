@@ -1,6 +1,13 @@
 ### Exercise: Understanding `useEffect` in React
 
 In this exercise, you’ll practice using the `useEffect` hook in different scenarios, including fetching data, handling side effects.
+Anything that happens outside the normal rendering of the UI, like:
+
+1. Fetching data from an API
+2. Updating the DOM manually
+3. Setting up timers (setTimeout, setInterval)
+4. Adding event listeners
+
 
 #### Step 1: Basic Usage of `useEffect`
 
