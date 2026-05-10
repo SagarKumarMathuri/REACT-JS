@@ -1,7 +1,15 @@
 ### Exercise: Conditional Rendering in React
 
-In this exercise, you will practice different ways to render JSX conditionally in React components.
+Conditional Rendering in React means displaying different UI elements or components based on a condition.
 
+React uses normal JavaScript conditions like:
+
+- if
+- else
+- ternary operator
+- && operator
+
+to decide what should appear on the screen.
 #### Step 1: Create a `Weather` Component with `if`, `else if`, and `else`
 
 1. Create a new file called `Weather.jsx`.
