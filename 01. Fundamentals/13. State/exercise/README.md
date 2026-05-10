@@ -2,6 +2,16 @@
 
 In this exercise, you’ll learn how to use the `useState` hook for managing state in various scenarios, including basic usage, arrays, objects, and arrays of objects.
 
+## Why useState is Needed
+
+Without state, React components cannot:
+
+- Store changing data
+- Update the screen dynamically
+- Handle user interaction properly
+
+useState helps React remember values between renders.
+
 #### Step 1: Basic Usage of `useState`
 
 1. Create a new file called `Counter.jsx`.
