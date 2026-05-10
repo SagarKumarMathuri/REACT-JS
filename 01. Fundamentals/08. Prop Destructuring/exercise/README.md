@@ -1,6 +1,6 @@
 ### Exercise: Props Destructuring in React Components
 
-In this exercise, you will learn how to use **destructuring** to simplify how you access props in React components.
+In React, props destructuring means extracting values from the props object directly, making the code cleaner and easier to read.
 
 #### Step 1: Create a `Person` Component with Props Destructuring
 
